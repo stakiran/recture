@@ -1,0 +1,4 @@
+@echo off
+setlocal
+set SAVEDIR=C:\Users\★\Desktop
+pythonw recture.py --dir "%SAVEDIR%"
